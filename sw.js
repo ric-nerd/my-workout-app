@@ -1,4 +1,4 @@
-const CACHE = 'workout-pwa-v1';
+const CACHE = 'workout-pwa-v2';
 const FILES = ['/', '/index.html', '/workout-data.js', '/manifest.json'];
 
 self.addEventListener('install', e => {
